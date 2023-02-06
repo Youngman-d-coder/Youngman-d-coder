@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Youngman-d-coder
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently a student at alx
 - 💞️ I’m looking to collaborate on Studying 
 - 📫 How to reach me ...
 
