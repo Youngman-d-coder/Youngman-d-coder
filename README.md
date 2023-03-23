@@ -1,24 +1,26 @@
-# Hi there, I'm [Nelson, Chimdiadi Chigozie(That Young Man)] 👋
+# Hi there, I'm Nelson, Chimdiadi Chigozie(That Young Man) 👋
+![My Profile Picture](https://github.com/youngman-d-coder/youngman-d-coder/blob/main/images/IMG-20221116-WA0040.jpg)
 
-I'm a [Software Engineering Student at ALX] and a [Applied Bichemistry student at Nnamdi Azikiwe University] based in [Holy Family Youth Village, Amansea, Awka North Anambra State]. I enjoy [Video games, volley Ball, Novels, and Anime] in my free time.
+
+I'm a Software Engineering Student at ALX and a student of Applied Bichemistry at Nnamdi Azikiwe University based in Holy Family Youth Village, Amansea, Awka North Anambra State. I enjoy Video games, volley Ball, Novels, and Anime in my free time.
 
 ## 🚀 Skills and Tools
-- [Pro]
-- [Skill 2]
-- [Skill 3]
-- [Tool 1]
-- [Tool 2]
-- [Tool 3]
+- Web Development (HTML, CSS, JavaScript)
+- Software Engineering (C, Python)
+- Shell Scripting
+- GitHub
+- VS Code
+- Shell
 
 ## 🌱 I'm currently learning
-- [low-level_programming with C]
-- [Linux Shell Basics]
-- [Problem solving skills]
+- C
+- Linux Shell Basics
+- Python
 
 ## 💻 Projects
-- [Project 1](link)
-- [Project 2](link)
-- [Project 3](link)
+- [alx-low_level_programming](https://github.com/Youngman-d-coder/alx-low_level_programming)
+- [alx-system_engineering-devops](https://github.com/Youngman-d-coder/alx-system_engineering-devops)
+- [my-small-python-projects](https://github.com/Youngman-d-coder/my-small-python-projects)
 
 ## 📫 How to reach me
 - [Email](sayhitonelson@gmail.com)
@@ -38,7 +40,7 @@ I'm a [Software Engineering Student at ALX] and a [Applied Bichemistry student a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngman-d-coder&layout=compact&theme=radical)
 
 ## 🎉 Fun Fact
-[Your Fun Fact]
+I once sat on my desk for almost 24 hours trying to figure out an alx task solution
 
 ---
 
