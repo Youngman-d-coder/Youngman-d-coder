@@ -3,7 +3,7 @@
 I'm a [Software Engineering Student at ALX] and a [Applied Bichemistry student at Nnamdi Azikiwe University] based in [Holy Family Youth Village, Amansea, Awka North Anambra State]. I enjoy [Video games, volley Ball, Novels, and Anime] in my free time.
 
 ## 🚀 Skills and Tools
-- [Skill 1]
+- [Pro]
 - [Skill 2]
 - [Skill 3]
 - [Tool 1]
@@ -11,9 +11,9 @@ I'm a [Software Engineering Student at ALX] and a [Applied Bichemistry student a
 - [Tool 3]
 
 ## 🌱 I'm currently learning
-- [Topic 1]
-- [Topic 2]
-- [Topic 3]
+- [low-level_programming with C]
+- [Linux Shell Basics]
+- [Problem solving skills]
 
 ## 💻 Projects
 - [Project 1](link)
@@ -21,21 +21,21 @@ I'm a [Software Engineering Student at ALX] and a [Applied Bichemistry student a
 - [Project 3](link)
 
 ## 📫 How to reach me
-- [Email](email)
-- [Twitter](twitter)
+- [Email](sayhitonelson@gmail.com)
+- [Twitter](https://twitter.com/ChimdiadiJoel)
 - [LinkedIn](linkedin)
 
 ## 🎨 My Portfolio
 - [Portfolio](link)
 
 ## 🚀 My Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=youngman-d-coder&show_icons=true&theme=radical)
 
 ## 🔥 My Contributions
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=youngman-d-coder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ## 🌟 My Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngman-d-coder&layout=compact&theme=radical)
 
 ## 🎉 Fun Fact
 [Your Fun Fact]
