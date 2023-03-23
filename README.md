@@ -1,5 +1,5 @@
 # Hi there, I'm Nelson, Chimdiadi Chigozie(That Young Man) 👋
-![My Profile Picture](https://github.com/youngman-d-coder/youngman-d-coder/main/images/IMG-20221116-WA0040.jpg)
+![My Profile Picture](https://github.com/Youngman-d-coder/Youngman-d-coder/blob/main/IMG-20221116-WA0040.jpg)
 
 
 I'm a Software Engineering Student at ALX and a student of Applied Bichemistry at Nnamdi Azikiwe University based in Holy Family Youth Village, Amansea, Awka North Anambra State. I enjoy Video games, volley Ball, Novels, and Anime in my free time.
