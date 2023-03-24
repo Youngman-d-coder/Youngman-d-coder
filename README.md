@@ -14,8 +14,8 @@ I'm a Software Engineering Student at ALX and a student of Applied Bichemistry a
 
 ## 🌱 I'm currently learning
 - C
-- Linux Shell Basics
 - Python
+- Linux Shell Basics
 
 ## 📫 How to reach me
 -[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ChimdiadiJoel)
