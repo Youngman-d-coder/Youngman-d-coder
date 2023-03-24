@@ -25,33 +25,10 @@ I'm a Software Engineering Student at ALX and a student of Applied Bichemistry a
 - [Portfolio](link)
 
 ## 💻 Projects
-<!-- Pinned Repositories -- >
 
-<a href="(https://github.com/Youngman-d-coder/alx-low_level_programming)">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youngman-d-coder&repo=alx-low_level_programming_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/Youngman-d-coder/my-small-python-projects">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youngman-d-coder&repo=my-small-python-projects_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Youngman-d-coder/alx-system_engineering-devops">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youngman-d-coder&repo=alx-system_engineering-devops_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 ## 🚀 My Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=youngman-d-coder&show_icons=true&theme=radical)
-<!-- GitHub Stats -- >
-
-<a href="https://github.com/Youngman-d-coder">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngman-d-coder&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Youngman-d-coder">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Youngman-d-coder&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Nelson's GitHub Stats" />
-</a>
 
 ## 🔥 My Contributions
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=youngman-d-coder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
