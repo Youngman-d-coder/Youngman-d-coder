@@ -14,8 +14,8 @@ I'm a Software Engineering Student at ALX and a student of Applied Bichemistry a
 
 ## 🌱 I'm currently learning
 - C
-- Python
 - Linux Shell Basics
+- Python
 
 ## 📫 How to reach me
 -[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ChimdiadiJoel)
@@ -27,7 +27,7 @@ I'm a Software Engineering Student at ALX and a student of Applied Bichemistry a
 ## 💻 Projects
 <!-- Pinned Repositories -- >
 
-<a href="https://github.com/Youngman-d-coder/alx-low_level_programming">
+<a href="(https://github.com/Youngman-d-coder/alx-low_level_programming)">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youngman-d-coder&repo=alx-low_level_programming_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
