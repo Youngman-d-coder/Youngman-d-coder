@@ -43,6 +43,15 @@ I'm a Software Engineering Student at ALX and a student of Applied Bichemistry a
 
 ## 🚀 My Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=youngman-d-coder&show_icons=true&theme=radical)
+<!-- GitHub Stats -- >
+
+<a href="https://github.com/Youngman-d-coder">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngman-d-coder&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Youngman-d-coder">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Youngman-d-coder&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Nelson's GitHub Stats" />
+</a>
 
 ## 🔥 My Contributions
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=youngman-d-coder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
