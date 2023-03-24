@@ -43,7 +43,6 @@ I'm a Software Engineering Student at ALX and a student of Applied Bichemistry a
 I once sat on my desk for almost 24 hours trying to figure out an alx task solution
 
 ---
-
 Inspired by [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 <!---
