@@ -25,27 +25,22 @@ I'm a Software Engineering Student at ALX and a student of Applied Bichemistry a
 - [Portfolio](link)
 
 ## 💻 Projects
-!-- Pinned Repositories -- >
+<!-- Pinned Repositories -- >
 
 <a href="https://github.com/Youngman-d-coder/alx-low_level_programming">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youngman-d-coder&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youngman-d-coder&repo=alx-low_level_programming_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Youngman-d-coder/my-small-python-projects">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youngman-d-coder&repo=my-small-python-projects_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/Youngman-d-coder/alx-system_engineering-devops">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youngman-d-coder&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youngman-d-coder&repo=alx-system_engineering-devops_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<!-- GitHub Stats -- >
-
-<a href="https://github.com/Youngman-d-coder/my-small-python-projects">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngman-d-coder&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 ## 🚀 My Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=youngman-d-coder&show_icons=true&theme=radical)
 
