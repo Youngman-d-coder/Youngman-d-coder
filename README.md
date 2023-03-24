@@ -17,19 +17,35 @@ I'm a Software Engineering Student at ALX and a student of Applied Bichemistry a
 - Linux Shell Basics
 - Python
 
-## 💻 Projects
-- [alx-low_level_programming](https://github.com/Youngman-d-coder/alx-low_level_programming)
-- [alx-system_engineering-devops](https://github.com/Youngman-d-coder/alx-system_engineering-devops)
-- [my-small-python-projects](https://github.com/Youngman-d-coder/my-small-python-projects)
-
 ## 📫 How to reach me
-- [Email](sayhitonelson@gmail.com)
-- [Twitter](https://twitter.com/ChimdiadiJoel)
-- [LinkedIn](linkedin)
-
+-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ChimdiadiJoel)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com//)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/youngman-d-coder)
 ## 🎨 My Portfolio
 - [Portfolio](link)
 
+## 💻 Projects
+!-- Pinned Repositories -- >
+
+<a href="https://github.com/Youngman-d-coder/alx-low_level_programming">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youngman-d-coder&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/braydoncoyer/ng-limeade">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Youngman-d-coder/alx-system_engineering-devops">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youngman-d-coder&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<!-- GitHub Stats -- >
+
+<a href="https://github.com/Youngman-d-coder/my-small-python-projects">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngman-d-coder&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 ## 🚀 My Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=youngman-d-coder&show_icons=true&theme=radical)
 
