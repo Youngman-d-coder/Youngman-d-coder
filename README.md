@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=1009e5&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+Nelson%2C+Chimdiadi+Chigozie(That+Young+Man)" align="middle" alt="Hi there, I'm Nelson, Chimdiadi Chigozie(That Young Man) 👋 animated typed out" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=1009e5&center=true&vCenter=true&width=940&lines=I'm+Nelson%2C+Chimdiadi+Chigozie(That+Young+Man)" align="middle" alt="Hi there, I'm Nelson, Chimdiadi Chigozie(That Young Man) 👋 animated typed out" width="100%"/>
 ![My Profile Picture](https://github.com/Youngman-d-coder/Youngman-d-coder/blob/main/IMG-20221116-WA0040.jpg)
 
 
