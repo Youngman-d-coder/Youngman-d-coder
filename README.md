@@ -1,21 +1,27 @@
 # ⚡ Nelson Chimdiadi Chigozie Joel (That Young Man)
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1A365D&center=false&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Applied+Biochemist;Tech+Mentor+%26+Community+Builder" alt="Typing SVG" />
+
+<p align="center">
+  <!-- This automatically pulls your GitHub profile picture. You can swap the URL inside src="" if you want a custom photo! -->
+  <img src="https://github.com/Youngman-d-coder.png" width="180" style="border-radius: 50%;" alt="Nelson Chimdiadi Profile Picture" />
 </p>
 
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1A365D&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Applied+Biochemist;Tech+Mentor+%26+Community+Builder" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Youngman-d-coder"><img src="https://img.shields.io/github/followers/Youngman-d-coder?label=Follow&style=social" alt="GitHub Followers"></a>
 </p>
 
 ---
 
 ## 💫 About Me
-An analytical software developer and community leader bridging the worlds of computational logic and biochemistry. I design robust system scripts, full-stack applications, and automation engines while empowering the next generation of tech talent through proactive mentorship and community organization.
+An analytical software developer and community leader bridging the worlds of computational logic and biochemistry[cite: 1]. I design robust system scripts, full-stack applications, and automation engines while empowering the next generation of tech talent through proactive mentorship and community organization[cite: 1].
 
-* 🎓 **Education:** Alumnus of the **ALX Software Engineering Program** and **Nnamdi Azikiwe University** (Applied Biochemistry).
+* 🎓 **Education:** Alumnus of the **ALX Software Engineering Program**[cite: 1] and **Nnamdi Azikiwe University** (Applied Biochemistry)[cite: 1].
 * 🛰️ **Systems Core:** Deeply explored computer science fundamentals, low-level architecture, and systems programming via **CS50**.
 * 🌍 **Leadership:** Former **Microsoft Learn Student Ambassador (MLSA)** & Lead Organizer of *Students Got Talent (SGT)* under Élan.
-* 🔭 **Current Focus:** Developing scalable full-stack applications and programmatic creative scripts.
+* 🔭 **Current Focus:** Developing scalable full-stack applications and programmatic creative scripts[cite: 1].
 
 ---
 
@@ -37,8 +43,8 @@ An analytical software developer and community leader bridging the worlds of com
 ## 💻 Featured Projects
 
 ### 🌐 Eden — Virtual Gallery & Developer Portfolio Platform
-> *React, Tailwind CSS, State Management*
-* Developed a responsive, dark-mode/glassmorphism portfolio system optimized for showcasing technical assets and digital art collections. Implemented seamless user workflows, creative grid structures, and interactive user flows.
+> *React, Tailwind CSS, State Management*[cite: 1]
+* Developed a responsive, dark-mode/glassmorphic portfolio system optimized for showcasing technical assets and digital art collections[cite: 1]. Implemented seamless user workflows, creative grid structures, and interactive user flows[cite: 1].
 
 ### 🛒 Full-Stack E-Commerce Engine
 > *React, Express.js, Tailwind CSS, Node.js*
@@ -53,13 +59,8 @@ An analytical software developer and community leader bridging the worlds of com
 ## 📊 Developer Metrics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youngman-d-coder&show_icons=true&theme=nord&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youngman-d-coder&theme=nord&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
-
-### 🏆 Contribution Profile
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngman-d-coder&layout=compact&theme=nord&hide_border=true" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Youngman-d-coder&show_icons=true&theme=radical&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngman-d-coder&layout=compact&theme=radical" width="48%" alt="Top Languages" />
 </p>
 
 ---
@@ -72,7 +73,7 @@ An analytical software developer and community leader bridging the worlds of com
 ---
 
 ## 📫 Let's Synchronize Systems
-<p align="left">
+<p align="center">
   <a href="mailto:nelson-says-hi@outlook.com"><img src="https://img.shields.io/badge/Email-nelson--says--hi%40outlook.com-1A365D?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100073772691968"><img src="https://img.shields.io/badge/Facebook-That_Young_Man-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100073772691968" target="_blank"><img src="https://img.shields.io/badge/Facebook-That_Young_Man-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
