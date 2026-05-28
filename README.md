@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1A365D&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Applied+Biochemist;Tech+Mentor+%26+Community+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1A365D&center=true&vCenter=true&width=500&lines=Bioinformatics+%26+ALife+Researcher;Software+Engineer;Full+Stack+Developer;Applied+Biochemist" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,12 +15,14 @@
 ---
 
 ## 💫 About Me
-An analytical software developer and community leader bridging the worlds of computational logic and biochemistry[cite: 1]. I design robust system scripts, full-stack applications, and automation engines while empowering the next generation of tech talent through proactive mentorship and community organization[cite: 1].
+An analytical software developer and researcher bridging the worlds of biochemical systems, complex computational logic, and artificial organisms. I am deeply fascinated by **Bioinformatics** and **Artificial Life (ALife)**[cite: 1], believing that the intersection of organic chemical principles and algorithmic modeling holds the key to unlocking revolutionary medical breakthroughs and the next generation of technological advancements[cite: 1]. 
 
-* 🎓 **Education:** Alumnus of the **ALX Software Engineering Program**[cite: 1] and **Nnamdi Azikiwe University** (Applied Biochemistry)[cite: 1].
+I design robust system scripts, full-stack applications, and automated systems[cite: 1] while exploring how code can mimic, accelerate, and decode biological life.
+
+* 🎓 **Education:** Applied Biochemistry graduate from **Nnamdi Azikiwe University**[cite: 1] & Alumnus of the **ALX Software Engineering Program**[cite: 1].
 * 🛰️ **Systems Core:** Deeply explored computer science fundamentals, low-level architecture, and systems programming via **CS50**.
 * 🌍 **Leadership:** Former **Microsoft Learn Student Ambassador (MLSA)** & Lead Organizer of *Students Got Talent (SGT)* under Élan.
-* 🔭 **Current Focus:** Developing scalable full-stack applications and programmatic creative scripts[cite: 1].
+* 🔭 **Current Focus:** Developing scalable full-stack applications[cite: 1], algorithmic market engines[cite: 1], and exploring computational biology frameworks.
 
 ---
 
@@ -30,12 +32,12 @@ An analytical software developer and community leader bridging the worlds of com
 | :--- | :--- |
 | **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
 | **Frameworks & UI** | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> |
-| **Tools & Systems** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Linux_Bash-4EAA25?style=flat-square&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Blender_API-F5792A?style=flat-square&logo=blender&logoColor=white" /> |
+| **Tools & Analytics**| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Linux_Bash-4EAA25?style=flat-square&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Blender_API-F5792A?style=flat-square&logo=blender&logoColor=white" /> |
 
 ### 🌱 Continuous Growth Track
-* Advanced C & Procedural Memory Architectures
-* Data Structures, Custom Algos, and Runtime Optimization ($O(N)$ engineering)
-* Backend API Routing, State Synchronization, and Full-Stack Scalability
+* **Bioinformatics Engineering:** Modeling metabolic pathways and handling sequence processing scripts in Python.
+* **Artificial Life Simulation:** Genetic algorithms, cellular automata, and emergence behaviors using C/Python.
+* **Data Structures & Optimization:** Algorithmic performance modeling ($O(N)$ system optimization).
 
 ---
 
@@ -43,11 +45,11 @@ An analytical software developer and community leader bridging the worlds of com
 
 ### 🌐 Eden — Virtual Gallery & Developer Portfolio Platform
 > *React, Tailwind CSS, State Management*[cite: 1]
-* Developed a responsive, dark-mode/glassmorphic portfolio system optimized for showcasing technical assets and digital art collections[cite: 1]. Implemented seamless user workflows, creative grid structures, and interactive user flows[cite: 1].
+* Developed a responsive, dark-mode portfolio system optimized for presenting digital assets, showcasing sleek user workflow transitions, customizable layouts, and modular presentation templates[cite: 1].
 
 ### 🛒 Full-Stack E-Commerce Engine
 > *React, Express.js, Tailwind CSS, Node.js*
-* Architected a robust client-server marketplace setup. Built responsive storefront interfaces, item state matrices, modular checkout pathways, and efficient JSON-based backend data routers.
+* Architected a secure client-server marketplace setup. Built responsive storefront interfaces, item state matrices, modular checkout pathways, and efficient JSON-based backend data routers.
 
 ### 🛰️ Orbit Tracker & Telemetry Engine
 > *Vortyx Space Onboarding Project*
@@ -66,7 +68,7 @@ An analytical software developer and community leader bridging the worlds of com
 
 ## 🎮 Beyond the Code
 * **Interests:** Competitive Volleyball | Sci-Fi & High-Fantasy Novels | Strategic Gaming & Anime
-* **Night Owl Developer:** Specialized in shipping cleaner code blocks and refactoring architecture loops at 2:00 AM.
+* **Night Owl Developer:** Specialized in shipping cleaner code blocks, modeling data matrices, and testing software parameters at 2:00 AM[cite: 1].
 * **⚡ Fun Fact:** I once burned nearly 24 straight hours debugging a systems project in C... only to discover that a single missing semicolon `;` was holding the compiler hostage. 😭
 
 ---
