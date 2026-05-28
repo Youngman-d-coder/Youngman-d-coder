@@ -1,80 +1,145 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=1009e5&center=true&vCenter=true&width=940&lines=I'm+Nelson%2C+Chimdiadi+Chigozie+(That+Young+Man)" alt="Intro Animation" />
-</p>
+# <div align="center">⚡ Nelson Chimdiadi Chigozie Joel ⚡</div>
 
-<p align="center">
-  <img src="https://github.com/Youngman-d-coder/Youngman-d-coder/blob/main/IMG-20221116-WA0040.jpg" width="200" style="border-radius: 50%">
-</p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0E63F4&center=true&vCenter=true&width=900&lines=Software+Engineer+%F0%9F%92%BB;ALX+Software+Engineering+Student;Applied+Biochemistry+Student+%F0%9F%A7%AA;Python+%7C+C+%7C+JavaScript+Developer;Building+Projects+%26+Learning+Daily+%F0%9F%9A%80" alt="Typing SVG" />
 
-# 👋 Hey there!
-I'm **Nelson Chimdiadi Chigozie Joel**, also known as **That Young Man** — a **Software Engineering Student at ALX** and a **BSc Applied Biochemistry student at Nnamdi Azikiwe University**.
+<br>
 
-I’m currently based in **Holy Family Youth Village, Amansea, Awka North, Anambra State**.
+<img src="https://github.com/Youngman-d-coder/Youngman-d-coder/blob/main/IMG-20221116-WA0040.jpg" width="220" style="border-radius:50%;" alt="Profile Picture"/>
 
-In my free time, I love:
-🎮 Gaming • 🏐 Volleyball • 📚 Novels • 🎬 Anime
+</div>
 
 ---
 
-## 🚀 Skills & Tools  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Programming:** C, Python  
-- **Tools:** GitHub, VS Code, Shell  
-- **Other:** Bash/Shell scripting  
+# 👋 About Me
+
+Hi there! I'm **Nelson Chimdiadi Chigozie Joel**
+Also known as **That Young Man** 😄
+
+🎓 **Software Engineering Student at ALX**
+🧪 **BSc Applied Biochemistry Student at Nnamdi Azikiwe University**
+📍 Based in **Anambra State, Nigeria**
+
+I’m passionate about:
+
+* Building software solutions
+* Open-source collaboration
+* Learning low-level programming
+* Creating beautiful web experiences
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced **C Programming**  
-- **Linux Shell** & System Commands  
-- Deeper **Python** concepts  
+# 🚀 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,bash" />
+
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,react,nodejs,tailwind" />
+
+</div>
 
 ---
 
-## 📫 Let’s Connect!
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-1CA2F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ChimdiadiJoel)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0D76A8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chimdiadi-nelson)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-black?style=flat&logo=codepen&logoColor=white)](https://codepen.io/youngman-d-coder)
+# 🌱 Currently Learning
+
+* Advanced **C Programming**
+* Data Structures & Algorithms
+* Linux Internals
+* Backend Development
+* System Design Basics
 
 ---
 
-## 🎨 Portfolio  
-🔗 **Coming Soon…**
+# 🎮 Interests
+
+* 🎮 Gaming
+* 🏐 Volleyball
+* 📚 Novels
+* 🎬 Anime
+* 💻 Debugging at 2AM 😭
 
 ---
 
-## 💻 Projects  
-> _Showcase coming soon — big things loading…_
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youngman-d-coder&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngman-d-coder&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youngman-d-coder&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+# 🔥 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Youngman-d-coder&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
 
 ---
 
-## 🔥 Contributions  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youngman-d-coder&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Youngman-d-coder&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
 
 ---
 
-## 🌟 Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngman-d-coder&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+# 💻 Featured Projects
+
+🚧 Awesome projects coming soon...
+
+* 🌐 Full Stack Portfolio Platform
+* 🛒 E-commerce Web App
+* 🛰️ Satellite Tracker Project
+* 📚 Book Store Application
 
 ---
 
-## 🎉 Fun Fact  
-💡 _I once stayed on my desk for almost **24 hours** straight trying to solve an ALX task. No breaks. Just vibes and debugging._
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://twitter.com/ChimdiadiJoel">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chimdiadi-nelson">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://codepen.io/youngman-d-coder">
+<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-_Inspired by the amazing work on the  
-[Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) project._
+# ⚡ Fun Fact
+
+> I once spent almost **24 hours debugging an ALX task** with no breaks.
+> Just determination, confusion, Stack Overflow, and vibes 😂
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=Youngman-d-coder&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
